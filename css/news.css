@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+body {
+	background-color:white
+}
+.oscars{
+	background-color:rgba(180, 6, 222, 0.918);
+	margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+	border: 4px dotted blue; 
+}
+img{
+	display: block;
+	margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	height: 50%;
+	border: 2px solid gold;
+}
+.article{
+	
+	
+}
+
+.article p{
+	margin-right: 100px;
+	margin-left: 75px;
+	padding: 25px;
+	
+	border: 2px dashed;
+	background-color: rgb(232, 184, 232);
+}
+.article a:hover {
+    color: hotpink;
+}
+
+.article h1 {
+  margin-left: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  margin: 10px 35px;
+  border-bottom: 3px dashed;
+}
+
+
